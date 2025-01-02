@@ -1,10 +1,6 @@
-nginx
+tomcat
 #支持私库
-docker.getcollate.io/openmetadata/postgresql:1.6.1
-docker.getcollate.io/openmetadata/ingestion:1.6.1
-docker.getcollate.io/openmetadata/server:1.6.1
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
-keking/kkfileview-jdk
+ 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
